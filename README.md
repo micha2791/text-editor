@@ -1,6 +1,6 @@
 # Text Editor
 
-### Github: 
+### Github: <https://github.com/micha2791/text-editor>
 
 ### Website: <https://my-texteditor.herokuapp.com/>
 
